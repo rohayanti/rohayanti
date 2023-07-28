@@ -7,24 +7,15 @@
 
 I am  __Rohayanti__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
-## 📚 Courses
-- [Software Engineering](https://github.com/rohayanti/special-topic-data-engineering)
-- [Artificial Intelligent](https://github.com/rohayanti/software-engineering)
 
-## 👨‍💻 Anything to do with research
-- [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
-- [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
-- [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/rohayanti/learn-github)
-- [Learn Github](https://github.com/drshahizan/learn-github)
-- [Research Material](https://github.com/drshahizan/research-material)
-  -   [Systematic Review: PRISMA 2020](https://github.com/drshahizan/research-material/tree/main/SLR)
-  -   [myTOR](https://github.com/drshahizan/myTOR)
+## 👨‍💻 Anything to do with certification
+- [Deep Learning Certified Professional](https://github.com/rohayanti/myJupyterNotebook)
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/rohayanti" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@rohayanti-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rohayanti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-rohayanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohayanti/"></a>
-    <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
   
