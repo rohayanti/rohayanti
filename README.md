@@ -9,7 +9,7 @@ I am  __Rohayanti__, and I work as a lecturer at [Universiti Teknologi Malaysia]
 
 
 ## 👨‍💻 Anything to do with certification
-- [Deep Learning Certified Professional](https://github.com/rohayanti/myJupyterNotebook)
+- [Deep Learning Certified Professional](https://github.com/rohayanti/Deep-Leaning-Certified-Professional)
 
 
 ### 🙌🏻 Connect with Me
