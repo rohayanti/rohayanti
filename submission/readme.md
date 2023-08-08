@@ -5,14 +5,14 @@
 <a href="https://github.com/drshahizan/SECP3843/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SECP3843?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSECP3843&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
+Remember to hit the :star: if you like this repo.
 
 # Special Topic Data Engineering
 
 ## Submission
 
 ### Folder Structure
-You must place your file in the submission folder. Within the `submission` folder, create a folder called your  `github_id`. Suggested folder structure for this project:
+You must place your file in the submission folder. Create a folder called your `github_id` within the' submission' folder. Suggested folder structure for this project:
 
 ```
 📁github_id
@@ -43,28 +43,28 @@ You must place your file in the submission folder. Within the `submission` folde
         ├── 📁images
         └── 📁source-code
 ```
-The folder structure you provided appears to be organized in a hierarchical manner. Here's a description of each component:
+The folder structure you provided is organized hierarchically. Here's a description of each component:
 
 - `github_id` is your folder or repository name.
 - `readme.md` is a Markdown file that serves as the readme for the repository. It usually contains information about the project, instructions, and documentation.
 
-Inside the `github_id` folder, there are five directories named `questions 1`, `questions 2`, `questions 3`, `questions 4`, and `questions 5`. Each of these directories represents a separate section or set of questions in the repository.
+Inside the `github_id` folder are five directories named `questions 1`, `questions 2`, `questions 3`, `questions 4`, and `questions 5`. Each directory represents a separate section or set of questions in the repository.
 
 Inside each `questions` directory, you'll find the following structure:
 
 - `answerQ1.md` (or `answerQ2.md`, `answerQ3.md`, etc.) is a Markdown file that contains the answer or response to the specific question. It likely provides a detailed explanation, solution, or discussion related to the question.
 - `files` is a subdirectory within each `questions` directory that contains additional files related to the answer.
 - Inside the `files` directory, you'll find two subdirectories:
-  - `images` directory holds image files that are referenced or used within the answer or any associated documentation.
+  - `images` directory holds files referenced or used within the answer or any associated documentation.
   - `source-code` directory contains source code files related to the question, answer, or any code examples provided.
 
-In summary, this folder structure appears to be organizing a GitHub repository by dividing it into separate sections for different questions. Each question has its own directory, including the answer file, along with subdirectories for related files, such as images and source code.
+This folder structure organizes a GitHub repository into separate sections for different questions. Each question has its directory, including the answer file and subdirectories for related files, such as images and source code.
 
 ## Your Folder
 
 | No | Name | Folder |
 | --- | --- | :---: |
-| 1 | ADAM WAFII BIN AZUAR | <a href="Jokeryde" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
+| 1 | NOOR HIDAYAH ZAKARIA | <a href="NoorHidayahZ" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 2 | ADRINA ASYIQIN BINTI MD ADHA | <a href="AdrinaAsyiqin" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 3 | AFIF HAZMIE ARSYAD BIN AGUS | <a href="AfifHazmie" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 4 | AHMAD AIMAN HAFIZI BIN MUHAMMAD | <a href="AimanHafizi619" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
