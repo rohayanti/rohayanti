@@ -12,6 +12,10 @@ I am  __Rohayanti__, and I work as a lecturer at [Universiti Teknologi Malaysia]
 - [Deep Learning Certified Professional](https://github.com/rohayanti/Deep-Leaning-Certified-Professional)
 
 
+## 👨‍💻 Course
+- [Artificial Intelligent](https://github.com/rohayanti/Artificial-Intelligent)
+
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/rohayanti" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@rohayanti-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
