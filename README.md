@@ -14,6 +14,7 @@ I am  __Rohayanti__, and I work as a lecturer at [Universiti Teknologi Malaysia]
 
 ## 👨‍💻 Course
 - [Artificial Intelligent](https://github.com/rohayanti/Artificial-Intelligent)
+- [Software Quality Assurance](https://github.com/rohayanti/SoftwareQualityAssurance)
 
 
 ### 🙌🏻 Connect with Me
