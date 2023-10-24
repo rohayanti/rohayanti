@@ -10,11 +10,11 @@ I am  __Rohayanti__, and I work as a lecturer at [Universiti Teknologi Malaysia]
 
 ## 👨‍💻 Anything to do with certification
 - [Deep Learning Certified Professional](https://github.com/rohayanti/Deep-Leaning-Certified-Professional)
+- [AgilePM](https://github.com/rohayanti/AgilePM)
 
 
 ## 👨‍💻 Course
 - [Artificial Intelligent](https://github.com/rohayanti/Artificial-Intelligent)
-- [Software Quality Assurance](https://github.com/rohayanti/SoftwareQualityAssurance)
 
 
 ### 🙌🏻 Connect with Me
