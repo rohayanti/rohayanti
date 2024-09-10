@@ -32,7 +32,7 @@
 
 ![other](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/CampusChatbot.png)
 
-![scispace](https://github.com/rohayanti/blob/main/Publication/files/scispace.png)
+![scispace](https://github.com/rohayanti/Publication/blob/main/Publication/files/turnitin.png)
 
 
 
