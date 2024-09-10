@@ -27,10 +27,8 @@
   - **Enhances Accuracy**: Proper citation management to avoid plagiarism ✔️
   - **Saves Time**: Automated summarization and citation formatting ⏳
 
-!./Publication/file/scispace.png(https://typeset.io/)
-
-
 ![scispace](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/scispace.png)(https://typeset.io/)
+
 
 ## Grammarly - Features and Benefits
 - **What is Grammarly?**
@@ -44,7 +42,8 @@
   - **Improves Engagement**: Style suggestions to make your writing more compelling 💬
   - **Ensures Originality**: Plagiarism detection to maintain originality 🛡️
 
-!Grammarly Image ✨
+![Grammarly](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/grammarly.png)(https://app.grammarly.com/)
+
 
 ## Checking AI Turnitin Rate
 - **What is Turnitin?**
@@ -57,7 +56,9 @@
   - **Ensures Academic Integrity**: Helps maintain the originality of your work 🏅
   - **Identifies Potential Issues**: Highlights areas that need revision 📝
 
-!Turnitin Image 🛡️
+
+![Turnitin](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/turnitin.png)(https://www.turnitin.com/)
+
 
 ## Stealth Writer - Features and Benefits
 - **What is Stealth Writer?**
@@ -71,5 +72,6 @@
   - **Improves Readability**: Paraphrases complex sentences for better understanding 📖
   - **Enhances Content**: Adds depth and detail to your writing 🌟
 
-!Stealth Writer Image 🚀
+![Stealth](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/stealth.png)(https://app.stealthwriter.ai/)
+
 
