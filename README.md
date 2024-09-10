@@ -9,7 +9,7 @@ I am  __Rohayanti__, and I work as a lecturer at [Universiti Teknologi Malaysia]
 
 ## 👨‍💻 Speaker
 - [How to Write Your Article with AI Tools](https://github.com/rohayanti/Publication)
-- [A checklist: FRGS Grant Application](./Publication/files/FRGS Grant Briefing - FC 2024 By DrRoha.pdf)
+- [A checklist: FRGS Grant Application](./Publication/files/FRGSDrRoha.pdf)
   
 ## 👨‍💻 Anything to do with certification
 - [Deep Learning Certified Professional](https://github.com/rohayanti/Deep-Leaning-Certified-Professional)
