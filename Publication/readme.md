@@ -30,12 +30,7 @@
 !./Publication/file/scispace.png(https://typeset.io/)
 
 
-![other](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/CampusChatbot.png)
-
-![scispace](https://github.com/rohayanti/Publication/blob/main/Publication/files/turnitin.png)
-
-
-
+![scispace](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/scispace.png)
 
 ## Grammarly - Features and Benefits
 - **What is Grammarly?**
