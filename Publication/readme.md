@@ -30,7 +30,7 @@
 !./Publication/file/scispace.png(https://typeset.io/)
 
 
-![scispace](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/scispace.png)
+![scispace](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/scispace.png) linked to (https://typeset.io/)
 
 ## Grammarly - Features and Benefits
 - **What is Grammarly?**
