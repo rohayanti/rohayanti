@@ -29,6 +29,9 @@
 
 ![scispace](https://typeset.io/)
 
+!SciSpace
+
+
 ## Grammarly - Features and Benefits
 - **What is Grammarly?**
   - AI-based writing assistant 🖋️
