@@ -5,7 +5,6 @@
 - **Objective**: Learn how to use AI tools to improve your article writing process.
 - **Tools Covered**: SciSpace, Grammarly, Stealth Writer, Turnitin.
 
-!Introduction Image ✨
 
 ## Improving Your Article with AI Tools
 - **Why Use AI Tools?**
@@ -15,7 +14,6 @@
   - Detect and reduce plagiarism 🔍
   - Humanize and refine content 🤝
 
-!Improving Article Image 🌟
 
 ## SciSpace - Features and Benefits
 - **What is SciSpace?**
@@ -29,7 +27,7 @@
   - **Enhances Accuracy**: Proper citation management to avoid plagiarism ✔️
   - **Saves Time**: Automated summarization and citation formatting ⏳
 
-!SciSpace Image 🚀
+![image](https://github.com/user-attachments/assets/fa50c23a-8e2e-406b-a9ab-2663cc951025) 🚀
 
 ## Grammarly - Features and Benefits
 - **What is Grammarly?**
