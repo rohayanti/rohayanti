@@ -7,7 +7,10 @@
 
 I am  __Rohayanti__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
-
+## 👨‍💻 Speaker
+- [How to Write Your Article with AI Tools](https://github.com/rohayanti/Deep-Leaning-Certified-Professional)
+- [A checklist: FRGS Grant Application](https://github.com/rohayanti/AgilePM)
+  
 ## 👨‍💻 Anything to do with certification
 - [Deep Learning Certified Professional](https://github.com/rohayanti/Deep-Leaning-Certified-Professional)
 - [AgilePM](https://github.com/rohayanti/AgilePM)
