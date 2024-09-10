@@ -28,7 +28,7 @@
   - **Saves Time**: Automated summarization and citation formatting ⏳
 
 ![image](https://github.com/user-attachments/assets/fa50c23a-8e2e-406b-a9ab-2663cc951025) 
-![image]([https://github.com/user-attachments/assets/fa50c23a-8e2e-406b-a9ab-2663cc951025](https://typeset.io/))
+![image](https://typeset.io/)
 
 
 ## Grammarly - Features and Benefits
