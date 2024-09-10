@@ -8,7 +8,7 @@
 I am  __Rohayanti__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 👨‍💻 Speaker
-- [How to Write Your Article with AI Tools](https://github.com/rohayanti/Publication)
+- [How to Write Your Article with AI Tools](./Publication/readme.md)
 - [A checklist: FRGS Grant Application](./Publication/files/FRGSDrRoha.pdf)
   
 ## 👨‍💻 Anything to do with certification
