@@ -27,9 +27,11 @@
   - **Enhances Accuracy**: Proper citation management to avoid plagiarism ✔️
   - **Saves Time**: Automated summarization and citation formatting ⏳
 
-!scispace(https://typeset.io/)
+!./Publication/file/scispace.png(https://typeset.io/)
 
-!SciSpace
+!Publication/files/scispace.png
+
+
 
 
 ## Grammarly - Features and Benefits
