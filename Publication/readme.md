@@ -27,7 +27,7 @@
   - **Enhances Accuracy**: Proper citation management to avoid plagiarism ✔️
   - **Saves Time**: Automated summarization and citation formatting ⏳
 
-![scispace](https://typeset.io/)
+!scispace(https://typeset.io/)
 
 !SciSpace
 
