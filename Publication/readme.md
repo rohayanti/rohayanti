@@ -30,9 +30,9 @@
 !./Publication/file/scispace.png(https://typeset.io/)
 
 
-![scispace](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/CampusChatbot.png)
+![other](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/CampusChatbot.png)
 
-![scispace](https://github.com/rohayanti/Publication/blob/main/files/scispace.png)
+![scispace](https://github.com/rohayanti/blob/main/Publication/files/scispace.png)
 
 
 
