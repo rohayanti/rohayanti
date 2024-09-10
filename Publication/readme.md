@@ -1,9 +1,10 @@
-# How to Write Your Article with AI Tools 🤖
+# How to Write Your Article in 1 DAY with AI Tools 🤖
 
 ## Introduction
-- **Overview**: Brief introduction to the session.
+- **Overview**: Let’s Complete Your Chapter in 1 DAY! 🚀
 - **Objective**: Learn how to use AI tools to improve your article writing process.
 - **Tools Covered**: SciSpace, Grammarly, Stealth Writer, Turnitin.
+
 
 
 ## Improving Your Article with AI Tools
@@ -13,6 +14,8 @@
   - Improve readability and engagement 📖
   - Detect and reduce plagiarism 🔍
   - Humanize and refine content 🤝
+
+
 
 
 ## SciSpace - Features and Benefits
@@ -30,6 +33,9 @@
 ![scispace](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/scispace.png)(https://typeset.io/)
 
 
+
+
+
 ## Grammarly - Features and Benefits
 - **What is Grammarly?**
   - AI-based writing assistant 🖋️
@@ -45,6 +51,10 @@
 ![Grammarly](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/grammarly.png)(https://app.grammarly.com/)
 
 
+
+
+
+
 ## Checking AI Turnitin Rate
 - **What is Turnitin?**
   - Plagiarism detection tool 🔍
@@ -58,6 +68,10 @@
 
 
 ![Turnitin](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/turnitin.png)(https://www.turnitin.com/)
+
+
+
+
 
 
 ## Stealth Writer - Features and Benefits
